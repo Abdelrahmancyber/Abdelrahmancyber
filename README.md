@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Abdelrahman 👋
 
-<!--
-**Abdelrahmancyber/Abdelrahmancyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student specializing in Cybersecurity.
 
-Here are some ideas to get you started:
+## About Me
+- Interested in Ethical Hacking and Network Security
+- Learning Penetration Testing and SOC Operations
+- Working with Python, Linux, and Networking tools
+- Building cybersecurity labs and projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Linux
+- Wireshark
+- Nmap
+- SQL
+- Git
+- Network Security
+- Penetration Testing
+
+## Currently Learning
+- Web Security
